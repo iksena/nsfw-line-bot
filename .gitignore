@@ -1,0 +1,7 @@
+.idea
+node_modules
+dist/*
+*.log
+.npmrc
+.env
+package-lock.json
